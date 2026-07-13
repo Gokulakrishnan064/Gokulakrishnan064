@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Gokulakrishnan S</h1>
 
 <h3 align="center">
@@ -248,4 +248,4 @@ If you like my work, consider giving a ⭐ to my repositories and connecting wit
 Happy Coding! 🚀
 
 </p>
-```
+
