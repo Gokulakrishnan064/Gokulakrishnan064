@@ -1,191 +1,251 @@
-<h1 align="center">Hi , I'm [Gokulakrishnan S]</h1>
+```markdown
+<h1 align="center">Hi 👋, I'm Gokulakrishnan S</h1>
+
 <h3 align="center">
-Full Stack Web Developer | Passionate Problem Solver | Building
-Modern Web Experiences
+Final Year CSE (AI & ML) Student | Full Stack Developer | AI Enthusiast | Problem Solver
 </h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?
-font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=
-true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+
-%7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+A
-wesome!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Final+Year+AIML+Student;Full+Stack+Developer;Java+%7C+Python+%7C+React+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New!" />
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- I'm a **Full Stack Web Developer** passionate about creating
-responsive and user-friendly web applications.
-- I enjoy turning ideas into real-world projects.
-- Currently learning **Next.js, TypeScript, and Cloud
-Technologies**.
+🎓 Final Year **Computer Science Engineering (AI & ML)** Student
 
-- Open to collaborating on exciting web development and open-
-source projects.
+💻 Passionate about **Full Stack Web Development**, **Artificial Intelligence**, and **Machine Learning**
 
-- Always exploring modern technologies and best development
-practices.
-- Fun Fact: **I love solving coding challenges and building
-useful applications.**
+🌱 Currently improving my skills in
+
+- Java
+- Data Structures & Algorithms
+- React
+- Spring Boot
+- Flask
+- Python
+- Machine Learning
+- Cloud Computing
+
+🚀 I enjoy building real-world projects that solve practical problems.
+
+🎯 My goal is to become a Software Engineer in a top product-based company.
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
-<a href=https://github.com/Gokulakrishnan064>
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-
-the-badge&logo=linkedin"/>
-
+<a href="https://www.linkedin.com/in/gokulakrishnan-s-a53289343/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="[Portfolio URL]">
 
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-
-the-badge&logo=vercel"/>
-
+<a href="https://github.com/Gokulakrishnan064">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:[Email Address]">
 
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-
-badge&logo=gmail"/>
-
+<a href="https://leetcode.com/u/gokulakrishnan06/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
 </p>
 
 ---
 
-# Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?
-i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,
-tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
+# 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
+
+</p>
+
+### Frameworks & Libraries
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,flask,spring,nodejs,express"/>
+
+</p>
+
+### Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm"/>
+
 </p>
 
 ---
 
-# Featured Projects
-## Portfolio Website
-Modern personal portfolio showcasing projects, skills, and
-experience.
+# 🚀 Featured Projects
+
+## 🌱 Flora Bot AI – Plant Disease Detection
+
+An AI-powered plant disease detection and plant care assistant that identifies diseases from leaf images and provides treatment recommendations.
 
 **Tech Stack**
-`HTML` `CSS` `JavaScript` `React`
-Live Demo: [Portfolio URL]
-Repository: [GitHub Repository]
+
+`Python` `Flask` `TensorFlow` `React` `MongoDB`
+
+🔗 Repository
+
+https://github.com/Gokulakrishnan064/Flora-Bot-AI-Plant-Disease-Detection-Plant-Care-Assistant
 
 ---
 
-## E-Commerce Website
-A responsive online shopping platform with authentication and cart
-functionality.
+## 💰 BudgetWise AI
+
+An intelligent personal finance assistant that helps users manage expenses, create monthly budgets, visualize spending, and receive AI-powered financial recommendations.
+
 **Tech Stack**
-`React` `Node.js` `Express` `MongoDB`
-Live Demo: [Project URL]
-Repository: [GitHub Repository]
+
+`React`
+`FastAPI`
+`MongoDB`
+`Gemini API`
+
+🔗 Repository
+
+https://github.com/Gokulakrishnan064/BudgetWise-AI
 
 ---
 
-## Task Management App
-A productivity application to organize daily tasks with
-authentication.
+## 🛒 Auction Bazaar
+
+A full-stack online auction platform where users can create auctions, place bids, and manage products securely.
+
 **Tech Stack**
-`React` `Firebase` `Tailwind CSS`
-Live Demo: [Project URL]
-Repository: [GitHub Repository]
+
+`Java`
+`Spring Boot`
+`PostgreSQL`
+`HTML`
+`CSS`
+
+🔗 Repository
+
+https://github.com/Gokulakrishnan064/AuctionBazaar-Online-Auction-Platform
 
 ---
 
-# GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?
-username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_bord
-er=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/
-top-langs/?
-username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde
-r=true"/>
-</p>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gokulakrishnan064&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-# GitHub Streak
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?
-user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?
-username=[GitHubUsername]&theme=tokyo-night"/>
-</p>
-
----
-
-# GitHub Trophies
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?
-
-username=[GitHubUsername]&theme=tokyonight&no-frame=true&margin-
-w=10"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulakrishnan064&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🛠 Currently Working On
-- Building full-stack web applications.
-- Learning advanced React ecosystem.
-- Exploring cloud deployment and DevOps.
-- Improving responsive UI/UX design.
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokulakrishnan064&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-# Currently Learning
-- TypeScript
-- Next.js
-- Docker
-- AWS
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulakrishnan064&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Gokulakrishnan064&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Java for Placements
+- Python
+- Spring Boot
+- React
+- Machine Learning
+- Cloud Computing
 - System Design
-- Backend Architecture
 
 ---
 
-# Goals for 2025
+# 🎯 2026 Goals
 
-- Contribute to Open Source
-- Build SaaS Applications
-- Master Full Stack Development
-- Learn Cloud Computing
-- Grow My Developer Portfolio
+✅ Solve 500+ LeetCode Problems
+
+✅ Crack a Product-Based Company
+
+✅ Contribute to Open Source
+
+✅ Build More AI Projects
+
+✅ Master Full Stack Development
+
+✅ Learn Cloud Technologies
 
 ---
 
-# Favorite Quote
+# ⚡ Fun Facts
 
-> "Code is like humor. When you have to explain it, it's bad." –
-Cory House
+- 💡 I love solving coding challenges.
+- 🌱 I enjoy building AI-powered applications.
+- 📖 I believe learning by building projects is the fastest way to grow.
+- ☕ Coffee + Coding = Productivity.
+
+---
+
+# 💬 Favorite Quote
+
+> "First, solve the problem. Then, write the code." — John Johnson
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?
-username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=fla
-t"/>
+
+<img src="https://komarev.com/ghpvc/?username=Gokulakrishnan064&label=Profile%20Views&color=0e75b6&style=flat"/>
+
 </p>
 
 ---
 
 <h3 align="center">
-Thanks for visiting my profile!
+
+⭐ Thanks for visiting my profile! ⭐
+
 </h3>
+
 <p align="center">
-If you like my work, consider giving a to my repositories and
-connecting with me.
+
+If you like my work, consider giving a ⭐ to my repositories and connecting with me.
+
+Happy Coding! 🚀
+
 </p>
+```
