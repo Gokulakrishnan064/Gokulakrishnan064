@@ -1,44 +1,47 @@
-
 <h1 align="center">Hi 👋, I'm Gokulakrishnan S</h1>
 
 <h3 align="center">
-Final Year CSE (AI & ML) Student | Full Stack Developer | AI Enthusiast | Problem Solver
+Final Year Computer Science Engineering (AI & ML) Student | AI Developer | Full Stack Developer | Java Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Final+Year+AIML+Student;Full+Stack+Developer;Java+%7C+Python+%7C+React+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Java+%7C+Python+Developer;Building+AI+Powered+Applications;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🎓 Final Year **Computer Science Engineering (AI & ML)** Student
 
-💻 Passionate about **Full Stack Web Development**, **Artificial Intelligence**, and **Machine Learning**
+🏫 VSB Engineering College, Karur
 
-🌱 Currently improving my skills in
+💡 Passionate about building **AI-powered applications**, **Machine Learning solutions**, and **Full Stack Web Applications**.
 
-- Java
+🚀 I enjoy solving real-world problems through technology and continuously improving my software development skills.
+
+🌱 Currently learning
+
 - Data Structures & Algorithms
-- React
+- Java
 - Spring Boot
-- Flask
 - Python
 - Machine Learning
+- FastAPI
+- React
 - Cloud Computing
+- System Design
 
-🚀 I enjoy building real-world projects that solve practical problems.
-
-🎯 My goal is to become a Software Engineer in a top product-based company.
+🎯 Goal:
+Become a Software Engineer at a leading product-based company and build impactful AI solutions.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/gokulakrishnan-s-a53289343/">
+<a href="https://www.linkedin.com/in/gokulakrishnan-s-a53289343">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -50,67 +53,100 @@ Final Year CSE (AI & ML) Student | Full Stack Developer | AI Enthusiast | Proble
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+<a href="mailto:gokulakrishn06@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 # 💻 Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
-
+<img src="https://skillicons.dev/icons?i=java,python"/>
 </p>
 
-### Frameworks & Libraries
+### Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,flask,spring,nodejs,express"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react"/>
 </p>
 
-### Databases
+### Backend
 
 <p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask,fastapi"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
+### Database
 
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
 </p>
 
 ### Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm"/>
-
 </p>
+
+---
+
+# 💼 Internship Experience
+
+## 🚀 Machine Learning Intern — CodeAlpha
+
+**Jan 2026 – Feb 2026**
+
+✔ Developed Handwritten Character Recognition using Machine Learning
+
+✔ Built Emotion Recognition from Speech model
+
+✔ Developed Credit Scoring Prediction Model
+
+✔ Worked on Data Preprocessing, Feature Engineering, Model Evaluation
+
+---
+
+## 💻 Infosys Springboard Virtual Intern
+
+**Feb 2025 – Mar 2025**
+
+✔ Worked with Git and Branching Strategy
+
+✔ Followed Collaborative Development Workflow
+
+✔ Strengthened Version Control Skills
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌱 Flora Bot AI – Plant Disease Detection
-
-An AI-powered plant disease detection and plant care assistant that identifies diseases from leaf images and provides treatment recommendations.
-
-**Tech Stack**
-
-`Python` `Flask` `TensorFlow` `React` `MongoDB`
-
-🔗 Repository
-
-https://github.com/Gokulakrishnan064/Flora-Bot-AI-Plant-Disease-Detection-Plant-Care-Assistant
-
----
-
 ## 💰 BudgetWise AI
 
-An intelligent personal finance assistant that helps users manage expenses, create monthly budgets, visualize spending, and receive AI-powered financial recommendations.
+An AI-powered Personal Finance Assistant that creates intelligent budgets based on income, expenses, and financial goals.
 
-**Tech Stack**
+### Features
+
+- AI Budget Planning
+- Expense Tracking
+- Income Management
+- Financial Dashboard
+- Spending Analytics
+- Budget Visualization
+- Expense Forecasting
+- Gemini AI Recommendations
+
+### Tech Stack
 
 `React`
 `FastAPI`
@@ -123,16 +159,58 @@ https://github.com/Gokulakrishnan064/BudgetWise-AI
 
 ---
 
-## 🛒 Auction Bazaar
+## 🌱 Pest Detection Agent
+
+AI-powered crop disease detection platform that identifies plant diseases from uploaded leaf images and generates detailed treatment reports.
+
+### Features
+
+- Disease Detection
+- AI Treatment Report
+- Gemini API Integration
+- Disease History
+- Farmer Recommendations
+
+### Tech Stack
+
+`React`
+
+`Python`
+
+`FastAPI`
+
+`MongoDB`
+
+`Gemini API`
+
+🔗 Repository
+
+https://github.com/Gokulakrishnan064/Pest-Detection-Agent
+
+---
+
+## 🛒 Online Auction Bazaar
 
 A full-stack online auction platform where users can create auctions, place bids, and manage products securely.
 
-**Tech Stack**
+### Features
+
+- User Authentication
+- Product Listing
+- Live Bidding
+- Role-based Access
+- REST APIs
+
+### Tech Stack
 
 `Java`
+
 `Spring Boot`
-`PostgreSQL`
+
+`MySQL`
+
 `HTML`
+
 `CSS`
 
 🔗 Repository
@@ -141,7 +219,17 @@ https://github.com/Gokulakrishnan064/AuctionBazaar-Online-Auction-Platform
 
 ---
 
-# 📊 GitHub Stats
+# 🏆 Certifications
+
+🏅 Java Foundation Certification – Infosys Springboard
+
+🏅 Introduction to SQL – Simplilearn
+
+🏅 Machine Learning Internship – CodeAlpha
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -173,7 +261,7 @@ https://github.com/Gokulakrishnan064/AuctionBazaar-Online-Auction-Platform
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏅 GitHub Trophies
 
 <p align="center">
 
@@ -185,39 +273,41 @@ https://github.com/Gokulakrishnan064/AuctionBazaar-Online-Auction-Platform
 
 # 📚 Currently Learning
 
-- Data Structures & Algorithms
 - Java for Placements
-- Python
+- Data Structures & Algorithms
 - Spring Boot
-- React
+- FastAPI
 - Machine Learning
 - Cloud Computing
 - System Design
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals for 2026
 
 ✅ Solve 500+ LeetCode Problems
 
-✅ Crack a Product-Based Company
-
-✅ Contribute to Open Source
-
-✅ Build More AI Projects
+✅ Build More AI Applications
 
 ✅ Master Full Stack Development
 
+✅ Contribute to Open Source
+
 ✅ Learn Cloud Technologies
+
+✅ Crack a Product-Based Company
 
 ---
 
-# ⚡ Fun Facts
+# 💡 Fun Facts
 
-- 💡 I love solving coding challenges.
-- 🌱 I enjoy building AI-powered applications.
-- 📖 I believe learning by building projects is the fastest way to grow.
-- ☕ Coffee + Coding = Productivity.
+💻 I love building AI-powered applications.
+
+📈 Learning by building real-world projects is my favorite way to grow.
+
+🧩 Passionate about solving coding problems.
+
+☕ Coffee + Coding = Productivity
 
 ---
 
@@ -243,9 +333,8 @@ https://github.com/Gokulakrishnan064/AuctionBazaar-Online-Auction-Platform
 
 <p align="center">
 
-If you like my work, consider giving a ⭐ to my repositories and connecting with me.
+If you like my work, consider giving ⭐ to my repositories and connecting with me.
 
 Happy Coding! 🚀
 
 </p>
-
