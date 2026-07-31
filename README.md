@@ -276,7 +276,6 @@ https://github.com/Gokulakrishnan064/AuctionBazaar-Online-Auction-Platform
 - Java for Placements
 - Data Structures & Algorithms
 - Spring Boot
-- FastAPI
 - Machine Learning
 - Cloud Computing
 - System Design
