@@ -28,7 +28,6 @@ Final Year Computer Science Engineering (AI & ML) Student | AI Developer | Full 
 - Python
 - Machine Learning
 - FastAPI
-- React
 - Cloud Computing
 - System Design
 
