@@ -1,38 +1,37 @@
 <h1 align="center">Hi 👋, I'm Gokulakrishnan S</h1>
 
 <h3 align="center">
-Final Year Computer Science Engineering (AI & ML) Student | AI Developer | Full Stack Developer | Java Developer
+Final Year Computer Science Engineering (AI & ML) Student | Aspiring Software Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Java+%7C+Python+Developer;Building+AI+Powered+Applications;Always+Learning+New+Technologies"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Java+%7C+Python+Developer;AI+%26+Machine+Learning+Enthusiast;Learning+Data+Structures+%26+Algorithms;Building+Real-World+Projects;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 Final Year **Computer Science Engineering (AI & ML)** Student
+🎓 Final Year **Computer Science and Engineering (AI & ML)** Student
 
-🏫 VSB Engineering College, Karur
+🏫 **VSB Engineering College, Karur, Tamil Nadu**
 
-💡 Passionate about building **AI-powered applications**, **Machine Learning solutions**, and **Full Stack Web Applications**.
+💡 Interested in **Software Development, Artificial Intelligence, and Machine Learning**.
 
-🚀 I enjoy solving real-world problems through technology and continuously improving my software development skills.
+🚀 I enjoy building practical projects and solving real-world problems through technology.
 
-🌱 Currently learning
+🌱 Currently learning and improving my skills in:
 
 - Data Structures & Algorithms
 - Java
-- Spring Boot
 - Python
+- Spring Boot
 - Machine Learning
-- FastAPI
-- Cloud Computing
-- System Design
+- Web Development
+- Database Management
 
-🎯 Goal:
-Become a Software Engineer at a leading product-based company and build impactful AI solutions.
+🎯 **Goal:**  
+To become a skilled Software Engineer and build useful, reliable, and impactful software solutions.
 
 ---
 
@@ -65,10 +64,10 @@ Become a Software Engineer at a leading product-based company and build impactfu
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp"/>
 </p>
 
-### Frontend
+### Web Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react"/>
@@ -77,10 +76,10 @@ Become a Software Engineer at a leading product-based company and build impactfu
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask,fastapi"/>
+<img src="https://skillicons.dev/icons?i=spring,flask,nodejs"/>
 </p>
 
-### Database
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
@@ -95,7 +94,7 @@ Become a Software Engineer at a leading product-based company and build impactfu
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
@@ -106,13 +105,15 @@ Become a Software Engineer at a leading product-based company and build impactfu
 
 **Jan 2026 – Feb 2026**
 
-✔ Developed Handwritten Character Recognition using Machine Learning
+✔ Worked on Machine Learning-based projects.
 
-✔ Built Emotion Recognition from Speech model
+✔ Developed a **Handwritten Character Recognition** project.
 
-✔ Developed Credit Scoring Prediction Model
+✔ Worked on **Speech Emotion Recognition**.
 
-✔ Worked on Data Preprocessing, Feature Engineering, Model Evaluation
+✔ Developed a **Credit Scoring Prediction Model**.
+
+✔ Worked with data preprocessing, feature engineering, and model evaluation.
 
 ---
 
@@ -120,219 +121,50 @@ Become a Software Engineer at a leading product-based company and build impactfu
 
 **Feb 2025 – Mar 2025**
 
-✔ Worked with Git and Branching Strategy
+✔ Worked with **Git branching strategies** in a collaborative development environment.
 
-✔ Followed Collaborative Development Workflow
+✔ Followed structured project workflows.
 
-✔ Strengthened Version Control Skills
+✔ Strengthened understanding of version control and team-based development.
 
 ---
 
 # 🚀 Featured Projects
 
-## 💰 BudgetWise AI
-
-An AI-powered Personal Finance Assistant that creates intelligent budgets based on income, expenses, and financial goals.
-
-### Features
-
-- AI Budget Planning
-- Expense Tracking
-- Income Management
-- Financial Dashboard
-- Spending Analytics
-- Budget Visualization
-- Expense Forecasting
-- Gemini AI Recommendations
-
-### Tech Stack
-
-`React`
-`FastAPI`
-`MongoDB`
-`Gemini API`
-
-🔗 Repository
-
-https://github.com/Gokulakrishnan064/BudgetWise-AI
-
----
-
 ## 🌱 Pest Detection Agent
 
-AI-powered crop disease detection platform that identifies plant diseases from uploaded leaf images and generates detailed treatment reports.
+An AI-powered crop disease detection platform that identifies plant diseases from uploaded leaf images and generates detailed treatment recommendations.
 
 ### Features
 
-- Disease Detection
-- AI Treatment Report
-- Gemini API Integration
-- Disease History
-- Farmer Recommendations
+- 🌿 Plant Disease Detection
+- 🤖 AI-Powered Analysis
+- 📋 Treatment Recommendations
+- 📊 Disease Scan History
+- 🧑‍🌾 Farmer Recommendations
+- 📱 Interactive Dashboard
 
 ### Tech Stack
 
-`React`
-
-`Python`
-
-`FastAPI`
-
-`MongoDB`
-
-`Gemini API`
-
-🔗 Repository
-
-https://github.com/Gokulakrishnan064/Pest-Detection-Agent
-
----
-
-## 🛒 Online Auction Bazaar
-
-A full-stack online auction platform where users can create auctions, place bids, and manage products securely.
-
-### Features
-
-- User Authentication
-- Product Listing
-- Live Bidding
-- Role-based Access
-- REST APIs
-
-### Tech Stack
-
-`Java`
-
-`Spring Boot`
-
-`MySQL`
-
-`HTML`
-
-`CSS`
-
-🔗 Repository
-
-https://github.com/Gokulakrishnan064/AuctionBazaar-Online-Auction-Platform
-
----
-
-# 🏆 Certifications
-
-🏅 Java Foundation Certification – Infosys Springboard
-
-🏅 Introduction to SQL – Simplilearn
-
-🏅 Machine Learning Internship – CodeAlpha
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gokulakrishnan064&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulakrishnan064&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokulakrishnan064&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulakrishnan064&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gokulakrishnan064&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-- Java for Placements
-- Data Structures & Algorithms
-- Spring Boot
-- Machine Learning
-- Cloud Computing
-- System Design
-
----
-
-# 🎯 Goals for 2026
-
-✅ Solve 500+ LeetCode Problems
-
-✅ Build More AI Applications
-
-✅ Master Full Stack Development
-
-✅ Contribute to Open Source
-
-✅ Learn Cloud Technologies
-
-✅ Crack a Product-Based Company
-
----
-
-# 💡 Fun Facts
-
-💻 I love building AI-powered applications.
-
-📈 Learning by building real-world projects is my favorite way to grow.
-
-🧩 Passionate about solving coding problems.
-
-☕ Coffee + Coding = Productivity
-
----
-
-# 💬 Favorite Quote
-
-> "First, solve the problem. Then, write the code." — John Johnson
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Gokulakrishnan064&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-</h3>
-
-<p align="center">
-
-If you like my work, consider giving ⭐ to my repositories and connecting with me.
-
-Happy Coding! 🚀
-
-</p>
+`React` `Python` `Flask` `TensorFlow` `MongoDB` `Gemini API`
+
+### Project Flow
+
+```text
+User
+  ↓
+React Frontend
+  ↓
+Flask REST API
+  ↓
+Image Preprocessing
+  ↓
+TensorFlow CNN
+  ↓
+Disease Classification
+  ↓
+Gemini API
+  ↓
+Treatment Report
+  ↓
+MongoDB
