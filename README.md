@@ -25,9 +25,7 @@ Final Year Computer Science Engineering (AI & ML) Student | Aspiring Software De
 - Data Structures & Algorithms
 - Java
 - Python
-- Spring Boot
-- Machine Learning
-- Web Development
+- c++
 - Database Management
 
 🎯 **Goal:**  
@@ -67,28 +65,16 @@ To become a skilled Software Engineer and build useful, reliable, and impactful 
 <img src="https://skillicons.dev/icons?i=java,python,cpp"/>
 </p>
 
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react"/>
-</p>
-
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,flask,nodejs"/>
+<img src="https://skillicons.dev/icons?i=flask,nodejs"/>
 </p>
 
 ### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
 </p>
 
 ### Tools
@@ -100,22 +86,6 @@ To become a skilled Software Engineer and build useful, reliable, and impactful 
 ---
 
 # 💼 Internship Experience
-
-## 🚀 Machine Learning Intern — CodeAlpha
-
-**Jan 2026 – Feb 2026**
-
-✔ Worked on Machine Learning-based projects.
-
-✔ Developed a **Handwritten Character Recognition** project.
-
-✔ Worked on **Speech Emotion Recognition**.
-
-✔ Developed a **Credit Scoring Prediction Model**.
-
-✔ Worked with data preprocessing, feature engineering, and model evaluation.
-
----
 
 ## 💻 Infosys Springboard Virtual Intern
 
